@@ -1,0 +1,7 @@
+
+[switches]
+FREESTANDING = on
+
+deffunk.main():
+  "This won't print in minimal freestanding, override xhcp_hw_write to see output."
+end

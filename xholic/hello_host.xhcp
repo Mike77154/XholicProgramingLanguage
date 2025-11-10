@@ -1,0 +1,8 @@
+
+[defines]
+MSG = "Hello from XHCP host!"
+
+deffunk.main():
+  "MSG is: ", MSG
+  '\n'
+end
